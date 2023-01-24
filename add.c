@@ -8,5 +8,6 @@ void main(){
 	printf("minus is %d",a-b);
 	printf("multiplication is %d",a*b);
 	printf("Division is %d",a/b);
+	
 	getch();
 }
